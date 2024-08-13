@@ -71,6 +71,6 @@ users:
 EOF
 ```
 
-```
-kubectl --kubeconfig=qa-member-kubeconfig.yaml get pods
 ```bash
+kubectl --kubeconfig=qa-member-kubeconfig.yaml get pods
+```
